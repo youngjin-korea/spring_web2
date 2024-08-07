@@ -26,7 +26,7 @@
 	</servlet>
 		
 	<servlet-mapping>
-		<servlet-name>appServle</servlet-name>
+		<servlet-name>appServlet</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
